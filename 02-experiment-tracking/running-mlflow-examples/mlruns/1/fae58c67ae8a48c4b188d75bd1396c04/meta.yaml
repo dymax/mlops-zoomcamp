@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohammad/Documents/local/tutorial_env/mlops-zoomcamp/02-experiment-tracking/running-mlflow-examples/mlruns/1/fae58c67ae8a48c4b188d75bd1396c04/artifacts
+end_time: 1656539432238
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: fae58c67ae8a48c4b188d75bd1396c04
+run_uuid: fae58c67ae8a48c4b188d75bd1396c04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1656539428827
+status: 3
+tags: []
+user_id: mohammad
